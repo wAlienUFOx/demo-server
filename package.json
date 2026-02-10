@@ -1,0 +1,20 @@
+{
+  "name": "demo_server",
+  "version": "0.0.1",
+  "description": "pet project demo server",
+  "homepage": "https://github.com/wAlienUFOx/demo-server#readme",
+  "bugs": {
+    "url": "https://github.com/wAlienUFOx/demo-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wAlienUFOx/demo-server.git"
+  },
+  "license": "ISC",
+  "author": "Anisimov Valery",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
